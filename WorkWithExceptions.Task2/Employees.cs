@@ -7,6 +7,7 @@ namespace WorkWithExceptions.Task2
         /// <summary>Массив фамилий </summary>
         string[] Surnames { get; set; }
 
+        /// <summary>Выбор метода сортировки 1 - по возрастанию;  2 - по убыванию</summary>
         private int _sorting;
 
         /// <summary>Выбор метода сортировки 1 - по возрастанию;  2 - по убыванию</summary>

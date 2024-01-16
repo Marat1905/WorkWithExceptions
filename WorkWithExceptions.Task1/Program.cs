@@ -21,7 +21,6 @@ internal class Program
                 }
                 catch (Exception ex)
                 {
-
                 Console.WriteLine($" {ex.GetType()} - {ex.Message}") ;
                 }
             }             
